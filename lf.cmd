@@ -1,2 +1,2 @@
 @echo off
-cmd /c "title=lf&lf-launcher.cmd %*"
+"%~dp0lf.bin.exe" %*
